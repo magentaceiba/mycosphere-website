@@ -36,7 +36,21 @@
 
 <svelte:head>
   <title>Mycosphere Partners - Regenerating the Living Contract Between Land, Food, and People</title>
-  <meta name="description" content="Mycosphere Partners is a Northeast-based alliance of organizers, lawyers, and mappers dedicated to helping farmers take back power from extractive supply chains." />
+  <meta name="description" content="Mycosphere Partners is a transformational systems consultancy that builds cooperative infrastructure, custom technology platforms, and finance solutions for food systems regeneration." />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://mycospherepartners.com/" />
+  <meta property="og:title" content="Mycosphere Partners - Regenerating the Living Contract Between Land, Food, and People" />
+  <meta property="og:description" content="Mycosphere Partners is a transformational systems consultancy that builds cooperative infrastructure, custom technology platforms, and finance solutions for food systems regeneration." />
+  <meta property="og:image" content="/img/mycosphereLogo.png" />
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://mycospherepartners.com/" />
+  <meta property="twitter:title" content="Mycosphere Partners - Regenerating the Living Contract Between Land, Food, and People" />
+  <meta property="twitter:description" content="Mycosphere Partners is a transformational systems consultancy that builds cooperative infrastructure, custom technology platforms, and finance solutions for food systems regeneration." />
+  <meta property="twitter:image" content="/img/mycosphereLogo.png" />
 </svelte:head>
 
 <HeroSection />
