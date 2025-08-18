@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -16,18 +16,50 @@
 
 @layer components {
   .btn-primary {
-    @apply bg-forest-green hover:bg-forest-green/90 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl;
+    @apply bg-gradient-to-r from-forest-green to-forest-green-light hover:from-forest-green-dark hover:to-forest-green text-white font-semibold py-4 px-8 rounded-xl transition-all duration-300 shadow-soft hover:shadow-glow transform hover:scale-105 hover:-translate-y-1;
   }
   
   .btn-secondary {
-    @apply bg-transparent border-2 border-forest-green text-forest-green hover:bg-forest-green hover:text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200;
+    @apply bg-transparent border-2 border-forest-green text-forest-green hover:bg-forest-green hover:text-white font-semibold py-4 px-8 rounded-xl transition-all duration-300 transform hover:scale-105 hover:-translate-y-1 shadow-soft hover:shadow-medium;
+  }
+  
+  .btn-accent {
+    @apply bg-gradient-to-r from-accent-orange to-warm-yellow hover:from-accent-orange/90 hover:to-warm-yellow/90 text-white font-semibold py-4 px-8 rounded-xl transition-all duration-300 shadow-soft hover:shadow-glow transform hover:scale-105 hover:-translate-y-1;
   }
   
   .section-padding {
-    @apply py-16 px-4 sm:px-6 lg:px-8;
+    @apply py-20 px-4 sm:px-6 lg:px-8;
   }
   
   .container-custom {
     @apply max-w-7xl mx-auto;
+  }
+  
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-soft rounded-2xl;
+  }
+  
+  .floating-card {
+    @apply glass-card hover:shadow-large transition-all duration-500 transform hover:-translate-y-2 hover:scale-105;
+  }
+  
+  .gradient-text {
+    @apply bg-gradient-to-r from-forest-green via-forest-green-light to-sage bg-clip-text text-transparent;
+  }
+  
+  .accent-border {
+    @apply border-l-4 border-lime-green pl-6;
+  }
+  
+  .organic-shape {
+    @apply rounded-[2rem] sm:rounded-[3rem] lg:rounded-[4rem];
+  }
+  
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-shadow-lg {
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
   }
 }

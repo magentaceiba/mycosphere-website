@@ -90,16 +90,20 @@
           </svg>
         </div>
         <h3 class="text-xl font-semibold text-forest-green mb-2 text-center">Magenta Light</h3>
-        <p class="text-lime-green font-medium mb-4 text-center">Project Manager & Coalition Builder</p>
+        <p class="text-lime-green font-medium mb-4 text-center">Fullstack Developer & Tech Architect</p>
         <p class="text-gray-700 text-sm leading-relaxed mb-4">
-          Magenta is a project manager, organizational development specialist and coalition builder for globally networked bioregional economies. For 25 years she has brought different movement leaders together to strategize and share resources for community-led development and food security.
+          Magenta is a fullstack developer, project manager, and organizational development specialist with 25 years of experience building globally networked bioregional economies. She brings different movement leaders together to strategize and share resources for community-led development and food security.
         </p>
         <p class="text-gray-700 text-sm leading-relaxed mb-4">
           As the founder of BloomNetwork.earth, she leads teams in marketing, finance, community, tech and administration to build movement coherence and generous resource sharing among stakeholders. She was the systems architect for their regenerative economic protocol, which uses state-of-the-art blockchain technology.
         </p>
+        <p class="text-gray-700 text-sm leading-relaxed mb-4">
+          Magenta has built applications for financial collaboration across regional stakeholders, stakeholder and local food business maps, searchable indexes for investors, philanthropists, and volunteers, and is currently exploring data unions for farmers so they can self-own their data for corporate partnerships.
+        </p>
         <div class="mt-4 flex flex-wrap justify-center gap-2">
+          <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Fullstack Development</span>
+          <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Tech Architecture</span>
           <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Coalition Building</span>
-          <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Organizational Development</span>
           <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Regenerative Finance</span>
         </div>
       </div>
