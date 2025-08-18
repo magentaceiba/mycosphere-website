@@ -13,7 +13,8 @@
     <div class="flex justify-between items-center py-4">
       <!-- Logo -->
       <div class="flex items-center space-x-3">
-        <img src="/img/mycosphereLogo.png" alt="Mycosphere Partners Logo" class="w-52" />
+        <a href="/">
+        <img src="/img/mycosphereLogo.png" alt="Mycosphere Partners Logo" class="w-52" /></a>
         <!-- <div class="text-xl font-bold text-forest-green">
           Mycosphere Partners
         </div> -->

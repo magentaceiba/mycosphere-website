@@ -27,7 +27,7 @@
   <!-- Background Image -->
   <div 
     class="absolute inset-0 bg-cover bg-center bg-no-repeat z-0"
-    style="background-image: url('/img/pexels-adis-rekic-3455823-13730514.jpg');"
+    style="background-image: url('/img/pexels-adis-rekic-3455823-1373051-1920px.jpg');"
   >
     <!-- Overlay for better text readability -->
     <div class="absolute inset-0 bg-gradient-to-br from-forest-green/80 to-earth-brown/80"></div>
