@@ -36,13 +36,13 @@
 
 <svelte:head>
   <title>Mycosphere Partners - Regenerating the Living Contract Between Land, Food, and People</title>
-  <meta name="description" content="Mycosphere Partners is a transformational systems consultancy that builds cooperative infrastructure, custom technology platforms, and finance solutions for food systems regeneration." />
+  <meta name="description" content="Mycosphere Partners is a transformational systems consultancy that partners with organizations to develop cooperative infrastructure, communications, finance, and custom technology platforms for food systems regeneration." />
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://mycospherepartners.com/" />
   <meta property="og:title" content="Mycosphere Partners - Regenerating the Living Contract Between Land, Food, and People" />
-  <meta property="og:description" content="Mycosphere Partners is a transformational systems consultancy that builds cooperative infrastructure, custom technology platforms, and finance solutions for food systems regeneration." />
+  <meta property="og:description" content="Mycosphere Partners is a transformational systems consultancy that partners with organizations to develop cooperative infrastructure, communications, finance, and custom technology platforms for food systems regeneration." />
   <meta property="og:image" content="/img/mycosphereLogo.png" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -54,7 +54,7 @@
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:url" content="https://mycospherepartners.com/" />
   <meta property="twitter:title" content="Mycosphere Partners - Regenerating the Living Contract Between Land, Food, and People" />
-  <meta property="twitter:description" content="Mycosphere Partners is a transformational systems consultancy that builds cooperative infrastructure, custom technology platforms, and finance solutions for food systems regeneration." />
+  <meta property="twitter:description" content="Mycosphere Partners is a transformational systems consultancy that partners with organizations to develop cooperative infrastructure, communications, finance, and custom technology platforms for food systems regeneration." />
   <meta property="twitter:image" content="/img/mycosphereLogo.png" />
   <meta property="twitter:image:alt" content="Mycosphere Partners Logo" />
   
