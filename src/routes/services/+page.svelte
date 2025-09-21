@@ -127,18 +127,20 @@
         </ul>
       </div>
       
-      <!-- <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-1 service-card">
-        <h4 class="text-xl font-semibold text-forest-green mb-4">Example: FORA Strategic Planning</h4>
+      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-1 service-card">
+        <h3 class="text-2xl font-semibold text-forest-green mb-4">Program Evaluation</h3>
         <p class="text-gray-700 mb-4">
-          We recently completed a comprehensive strategic planning process for Funders for Regenerative Agriculture (FORA), including:
+          We provide comprehensive measurement, evaluation, and program evaluation services to assess impact and inform strategic decision-making.
         </p>
-        <ul class="space-y-2 text-gray-700 text-sm">
-          <li>• 60-75 stakeholder interviews and focus groups</li>
-          <li>• Power and influence mapping of the regenerative agriculture landscape</li>
-          <li>• Strategic design sprints using sociocracy principles</li>
-          <li>• Equity integration throughout the process</li>
+        <ul class="space-y-2 text-gray-700">
+          <li>• Savory Framework implementation and assessment</li>
+          <li>• Community-led evaluation protocol development</li>
+          <li>• Ecological, social, and economic outcome indicators</li>
+          <li>• Novel stakeholder compensation models for impact documentation</li>
+          <li>• Participatory evaluation design and implementation</li>
+          <li>• Impact measurement and reporting frameworks</li>
         </ul>
-      </div> -->
+      </div>
     </div>
   </div>
 </section>
