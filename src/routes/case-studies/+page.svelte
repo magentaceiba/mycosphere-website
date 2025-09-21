@@ -18,7 +18,8 @@
 </section>
 
 <!-- Introduction -->
-<section class="section-padding bg-white">
+<!-- <section class="section-padding bg-white"> -->
+<section class="pt-16 pb-0 bg-white">
   <div class="container-custom text-center">
     <h2 class="text-4xl font-bold text-forest-green mb-6">Our Impact in Action</h2>
     <p class="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
@@ -28,7 +29,7 @@
 </section>
 
 <!-- Featured Case Study -->
-<section class="section-padding bg-soft-cream">
+<!-- <section class="section-padding bg-soft-cream">
   <div class="container-custom">
     <div class="text-center mb-16">
       <h2 class="text-4xl font-bold text-forest-green mb-6">Featured Project</h2>
@@ -106,17 +107,17 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!-- Additional Case Studies -->
 <section class="section-padding bg-white">
   <div class="container-custom">
-    <div class="text-center mb-16">
+    <!-- <div class="text-center mb-16">
       <h2 class="text-4xl font-bold text-forest-green mb-6">More Case Studies</h2>
       <p class="text-xl text-gray-600 max-w-3xl mx-auto">
         Explore other examples of our work across different sectors and project types.
       </p>
-    </div>
+    </div> -->
     
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
       <!-- Case Study 1 -->
