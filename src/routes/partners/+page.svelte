@@ -38,18 +38,18 @@
     </div>
     
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-      <!-- Soil & Climate Initiative -->
+      <!-- Leadership for the Ecozoic -->
       <div class="bg-white p-8 rounded-2xl shadow-lg text-center">
         <div class="w-32 h-32 bg-white rounded-lg flex items-center justify-center mx-auto mb-6 p-4">
-          <img src="/img/partnerLogos/image7.png" alt="Soil & Climate Initiative Logo" class="max-w-full max-h-full object-contain" />
+          <img src="/img/partnerLogos/Logo-leadership-for-ecozoic-e1640048225470.webp" alt="Leadership for the Ecozoic Logo" class="max-w-full max-h-full object-contain" />
         </div>
-        <h3 class="text-xl font-semibold text-forest-green mb-3">Soil & Climate Initiative</h3>
+        <h3 class="text-xl font-semibold text-forest-green mb-3">Leadership for the Ecozoic</h3>
         <p class="text-gray-700 text-sm leading-relaxed mb-4">
-          A collaborative network working to accelerate the transition to regenerative agriculture through soil health, climate resilience, and farmer prosperity.
+          A university network working towards a vision of the future founded on mutually enhancing relationships between human societies and the planetary community of life.
         </p>
         <div class="mt-4 flex flex-wrap justify-center gap-2">
-          <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Soil Health</span>
-          <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Climate Resilience</span>
+          <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">University Network</span>
+          <span class="px-3 py-1 bg-soft-cream text-forest-green text-xs rounded-full">Ecological Vision</span>
         </div>
       </div>
       
@@ -141,6 +141,36 @@
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Sustainability</span>
         </div>
       </div>
+      
+      <!-- UVM Institute for Agroecology -->
+      <div class="bg-soft-cream p-8 rounded-2xl text-center">
+        <div class="w-32 h-32 bg-white rounded-lg flex items-center justify-center mx-auto mb-6 p-4">
+          <img src="/img/partnerLogos/uvm.png" alt="UVM Institute for Agroecology Logo" class="max-w-full max-h-full object-contain" />
+        </div>
+        <h3 class="text-xl font-semibold text-forest-green mb-3">UVM Institute for Agroecology</h3>
+        <p class="text-gray-700 text-sm leading-relaxed mb-4">
+          Through research, learning and action, the Institute powers transformations to regenerate the environment, cool the planet and provide healthy food for all.
+        </p>
+        <div class="mt-4 flex flex-wrap justify-center gap-2">
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Agroecology</span>
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Food Systems</span>
+        </div>
+      </div>
+      
+      <!-- Micronutrient Forum Landscape Analysis -->
+      <div class="bg-soft-cream p-8 rounded-2xl text-center">
+        <div class="w-32 h-32 bg-white rounded-lg flex items-center justify-center mx-auto mb-6 p-4">
+          <img src="/img/partnerLogos/micronutrient-forum-logo.png" alt="UVM Institute for Agroecology Logo" class="max-w-full max-h-full object-contain" />
+        </div>
+        <h3 class="text-xl font-semibold text-forest-green mb-3">Micronutrient Forum Landscape Analysis</h3>
+        <p class="text-gray-700 text-sm leading-relaxed mb-4">
+          We led a comprehensive landscape scan to identify the key stakeholders working at the nexus of soil health, human health, and nutrition at a global scale.
+        </p>
+        <div class="mt-4 flex flex-wrap justify-center gap-2">
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Landscape Analysis</span>
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Global Research</span>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -200,6 +230,64 @@
         <a href="/contact" class="inline-block bg-forest-green text-white px-6 py-3 rounded-lg hover:bg-forest-green/90 transition-colors text-sm font-medium">
           Get in Touch
         </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Project Partnerships -->
+<section class="section-padding bg-white">
+  <div class="container-custom">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl font-bold text-forest-green mb-6">Project Partnerships</h2>
+      <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+        Collaborative projects that demonstrate our commitment to advancing regenerative agriculture and food system transformation.
+      </p>
+    </div>
+    
+    <div class="max-w-4xl mx-auto">
+      <!-- Micronutrient Forum Landscape Analysis -->
+      <div class="bg-soft-cream p-8 rounded-2xl mb-8">
+        <div class="flex items-start gap-6">
+          <div class="w-20 h-20 bg-white rounded-lg flex items-center justify-center flex-shrink-0 p-2">
+            <img src="/img/partnerLogos/micronutrient-forum-logo.png" alt="Micronutrient Forum Logo" class="max-w-full max-h-full object-contain" />
+          </div>
+          <div class="flex-1">
+            <h3 class="text-2xl font-semibold text-forest-green mb-4">Micronutrient Forum Landscape Analysis</h3>
+            <p class="text-gray-700 mb-6 leading-relaxed">
+              We led a comprehensive landscape scan to identify the key stakeholders working at the nexus of soil health, human health, and nutrition at a global scale.
+            </p>
+            
+            <div class="mb-6">
+              <h4 class="text-lg font-semibold text-forest-green mb-3">Our Approach:</h4>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex items-start gap-2">
+                  <span class="text-lime-green mt-1">•</span>
+                  <span>Key stakeholder interviews</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <span class="text-lime-green mt-1">•</span>
+                  <span>Desk-based literature research</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <span class="text-lime-green mt-1">•</span>
+                  <span>Design-spring collaboration between our partners including a presentation to Rockefeller Foundation (project funders)</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <span class="text-lime-green mt-1">•</span>
+                  <span>Ongoing collaboration to produce a matrix of multiple sectors, regions, and research foci</span>
+                </li>
+              </ul>
+            </div>
+            
+            <div class="flex flex-wrap gap-2">
+              <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Landscape Analysis</span>
+              <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Global Research</span>
+              <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Stakeholder Mapping</span>
+              <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Rockefeller Foundation</span>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -267,21 +355,96 @@
   </div>
 </section>
 
-<!-- Become a Partner -->
+<!-- Our Partnership Approach -->
+<section class="section-padding bg-soft-cream">
+  <div class="container-custom">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <div>
+        <h2 class="text-3xl font-bold text-forest-green mb-6">Our Partnership Approach</h2>
+        <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+          Every partnership we develop follows our core principles of participatory design, systems thinking, and regenerative outcomes. We believe in building lasting relationships that advance the field and inspire collective action.
+        </p>
+        <ul class="space-y-4 text-gray-700">
+          <li class="flex items-start space-x-3">
+            <div class="w-3 h-3 bg-lime-green rounded-full mt-2 flex-shrink-0"></div>
+            <span>Participatory design processes that center stakeholder voices</span>
+          </li>
+          <li class="flex items-start space-x-3">
+            <div class="w-3 h-3 bg-lime-green rounded-full mt-2 flex-shrink-0"></div>
+            <span>Systems-level analysis and intervention design</span>
+          </li>
+          <li class="flex items-start space-x-3">
+            <div class="w-3 h-3 bg-lime-green rounded-full mt-2 flex-shrink-0"></div>
+            <span>Measurable outcomes and impact assessment</span>
+          </li>
+          <li class="flex items-start space-x-3">
+            <div class="w-3 h-3 bg-lime-green rounded-full mt-2 flex-shrink-0"></div>
+            <span>Knowledge sharing and capacity building</span>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="bg-white p-8 rounded-2xl">
+        <h3 class="text-2xl font-semibold text-forest-green mb-6">Partnership Types</h3>
+        <div class="space-y-4">
+          <div class="flex items-center space-x-3">
+            <div class="w-4 h-4 bg-lime-green rounded-full"></div>
+            <span class="text-gray-700">Strategic planning and organizational development</span>
+          </div>
+          <div class="flex items-center space-x-3">
+            <div class="w-4 h-4 bg-lime-green rounded-full"></div>
+            <span class="text-gray-700">Legal innovation and governance design</span>
+          </div>
+          <div class="flex items-center space-x-3">
+            <div class="w-4 h-4 bg-lime-green rounded-full"></div>
+            <span class="text-gray-700">Regenerative finance and investment readiness</span>
+          </div>
+          <div class="flex items-center space-x-3">
+            <div class="w-4 h-4 bg-lime-green rounded-full"></div>
+            <span class="text-gray-700">Network building and coalition development</span>
+          </div>
+          <div class="flex items-center space-x-3">
+            <div class="w-4 h-4 bg-lime-green rounded-full"></div>
+            <span class="text-gray-700">Food system infrastructure and hub development</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Ready to Create Your Success Story -->
 <section class="section-padding bg-forest-green text-white">
   <div class="container-custom text-center">
-    <h2 class="text-4xl font-bold mb-6">Become a Partner</h2>
+    <h2 class="text-4xl font-bold mb-6">Ready to Create Your Success Story?</h2>
     <p class="text-xl text-soft-cream mb-8 max-w-3xl mx-auto">
-      Interested in collaborating with us? We're always looking for organizations that share our vision of regenerative food systems and are committed to making a positive impact.
+      Whether you're looking to transform your organization's food system, develop strategic plans, or build regenerative infrastructure, we're here to help you achieve your goals.
     </p>
     
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="/contact" class="btn-primary text-lg px-8 py-4 bg-white text-forest-green hover:bg-gray-100">
-        Get in Touch
+      <a href="/contact" class="text-lg px-8 py-4 bg-white text-forest-green hover:bg-gray-100 rounded-xl font-bold">
+        Schedule a Discovery Call
       </a>
-      <a href="/case-studies" class="btn-secondary text-lg px-8 py-4 text-white border-white hover:bg-white hover:text-forest-green">
-        View Our Work
+      <a href="/services" class="btn-secondary text-lg px-8 py-4 text-white border-white hover:bg-white hover:text-forest-green">
+        Explore Our Services
       </a>
     </div>
   </div>
+
+  <!-- Become a Partner -->
+  <!-- <div class="container-custom text-center">
+  <h2 class="text-4xl font-bold mb-6">Become a Partner</h2>
+  <p class="text-xl text-soft-cream mb-8 max-w-3xl mx-auto"></p>
+  Interested in collaborating with us? We're always looking for organizations that share our vision of regenerative food 
+      systems and are committed to making a positive impact.
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/contact" class="btn-primary text-lg px-8 py-4 bg-white text-forest-green hover:bg-gray-100">
+      Get in Touch
+    </a>
+      <a href="/case-studies" class="btn-secondary text-lg px-8 py-4 text-white border-white hover:bg-white 
+      hover:text-forest-green">
+        View Our Work
+      </a>
+    </div>
+  </div> -->
 </section>

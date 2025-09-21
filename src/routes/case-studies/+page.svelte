@@ -1,13 +1,13 @@
-<svelte:head>
+<!-- <svelte:head>
   <title>Case Studies - Mycosphere Partners</title>
   <meta name="description" content="Explore case studies showcasing Mycosphere Partners' work in regenerative agriculture, strategic planning, and food system transformation." />
-</svelte:head>
+</svelte:head> -->
 
 <!-- Hero Section -->
-<section class="relative h-96 flex items-center justify-center overflow-hidden">
-  <div class="absolute inset-0 bg-cover bg-center bg-no-repeat z-0" style="background-image: url('/img/mercado-verde_7-479796443.jpg');">
+<!-- <section class="relative h-96 flex items-center justify-center overflow-hidden">
+  <div class="absolute inset-0 bg-cover bg-center bg-no-repeat z-0" style="background-image: url('/img/mercado-verde_7-479796443.jpg');"> -->
     <!-- Overlay for better text readability -->
-    <div class="absolute inset-0 bg-gradient-to-br from-forest-green/90 to-earth-brown/90"></div>
+    <!-- <div class="absolute inset-0 bg-gradient-to-br from-forest-green/90 to-earth-brown/90"></div>
   </div>
   <div class="relative z-10 text-center text-white px-4">
     <h1 class="text-5xl md:text-6xl font-bold mb-4">Case Studies</h1>
@@ -15,18 +15,18 @@
       Real-world examples of our work transforming food systems and building regenerative infrastructure.
     </p>
   </div>
-</section>
+</section> -->
 
 <!-- Introduction -->
 <!-- <section class="section-padding bg-white"> -->
-<section class="pt-16 pb-0 bg-white">
+<!-- <section class="pt-16 pb-0 bg-white">
   <div class="container-custom text-center">
     <h2 class="text-4xl font-bold text-forest-green mb-6">Our Impact in Action</h2>
     <p class="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
       These case studies demonstrate how we work with partners to create lasting change in food systems, from strategic planning to legal innovation to network building. Each project showcases our approach to collaborative, systems-level transformation.
     </p>
   </div>
-</section>
+</section> -->
 
 <!-- Featured Case Study -->
 <!-- <section class="section-padding bg-soft-cream">
@@ -110,8 +110,8 @@
 </section> -->
 
 <!-- Additional Case Studies -->
-<section class="section-padding bg-white">
-  <div class="container-custom">
+<!-- <section class="section-padding bg-white">
+  <div class="container-custom"> -->
     <!-- <div class="text-center mb-16">
       <h2 class="text-4xl font-bold text-forest-green mb-6">More Case Studies</h2>
       <p class="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -119,9 +119,9 @@
       </p>
     </div> -->
     
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <!-- <div class="grid grid-cols-1 lg:grid-cols-2 gap-8"> -->
       <!-- Case Study 1 -->
-      <div class="bg-soft-cream p-8 rounded-2xl">
+      <!-- <div class="bg-soft-cream p-8 rounded-2xl">
         <h3 class="text-2xl font-semibold text-forest-green mb-4">University Food System Transformation</h3>
         <p class="text-gray-700 mb-4">
           We helped a major university develop a comprehensive local food purchasing program that now sources 40% of their produce from regional farmers.
@@ -137,10 +137,10 @@
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Cooperative Agreements</span>
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Student Engagement</span>
         </div>
-      </div>
+      </div> -->
       
       <!-- Case Study 2 -->
-      <div class="bg-soft-cream p-8 rounded-2xl">
+      <!-- <div class="bg-soft-cream p-8 rounded-2xl">
         <h3 class="text-2xl font-semibold text-forest-green mb-4">Hospital Food Hub Network</h3>
         <p class="text-gray-700 mb-4">
           We designed and implemented a food hub network connecting multiple hospitals to local farmers through cooperative structures.
@@ -156,10 +156,10 @@
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Food Hub Design</span>
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Legal Innovation</span>
         </div>
-      </div>
+      </div> -->
       
       <!-- Case Study 3 -->
-      <div class="bg-soft-cream p-8 rounded-2xl">
+      <!-- <div class="bg-soft-cream p-8 rounded-2xl">
         <h3 class="text-2xl font-semibold text-forest-green mb-4">Green Bond Pilot Development</h3>
         <p class="text-gray-700 mb-4">
           We're developing a bioregional green bond pilot to deploy catalytic capital into food hub infrastructure and cooperative land ownership.
@@ -175,10 +175,10 @@
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Regenerative Finance</span>
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Infrastructure</span>
         </div>
-      </div>
+      </div> -->
       
       <!-- Case Study 4 -->
-      <div class="bg-soft-cream p-8 rounded-2xl">
+      <!-- <div class="bg-soft-cream p-8 rounded-2xl">
         <h3 class="text-2xl font-semibold text-forest-green mb-4">Farmer Data Union Development</h3>
         <p class="text-gray-700 mb-4">
           We're working with farmers to develop data sovereignty frameworks that protect their information while enabling collective bargaining power.
@@ -194,13 +194,40 @@
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Cooperative Design</span>
           <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Technology</span>
         </div>
+      </div> -->
+      
+      <!-- Case Study 5 - Micronutrient Forum Landscape Analysis -->
+      <!-- <div class="bg-soft-cream p-8 rounded-2xl">
+        <div class="flex items-start gap-4 mb-4">
+          <h3 class="text-2xl font-semibold text-forest-green">Micronutrient Forum Landscape Analysis</h3>
+        </div>
+        <p class="text-gray-700 mb-4">
+          We led a comprehensive landscape scan to identify the key stakeholders working at the nexus of soil health, human health, and nutrition at a global scale.
+        </p>
+        
+        <div class="mb-4">
+          <h4 class="text-lg font-semibold text-forest-green mb-2">Our Approach:</h4>
+          <ul class="space-y-1 text-gray-700 text-sm">
+            <li>• Key stakeholder interviews</li>
+            <li>• Desk-based literature research</li>
+            <li>• Design-sprint collaboration between our partners including a presentation to Rockefeller Foundation (project funders)</li>
+            <li>• Ongoing collaboration to produce a matrix of multiple sectors, regions, and research foci</li>
+          </ul>
+        </div>
+        
+        <div class="flex flex-wrap gap-2">
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Landscape Analysis</span>
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Global Research</span>
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Stakeholder Mapping</span>
+          <span class="px-3 py-1 bg-white text-forest-green text-xs rounded-full">Rockefeller Foundation</span>
+        </div>
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!-- Our Approach -->
-<section class="section-padding bg-soft-cream">
+<!-- <section class="section-padding bg-soft-cream">
   <div class="container-custom">
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
       <div>
@@ -255,23 +282,23 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!-- Get Started -->
-<section class="section-padding bg-forest-green text-white">
+<!-- <section class="section-padding bg-forest-green text-white">
   <div class="container-custom text-center">
-    <h2 class="text-4xl font-bold mb-6">Ready to Create Your Success Story?</h2>
+    <h2 class="text-4xl font-bold mb-6">Inspired by Our Work?</h2>
     <p class="text-xl text-soft-cream mb-8 max-w-3xl mx-auto">
-      Whether you're looking to transform your organization's food system, develop strategic plans, or build regenerative infrastructure, we're here to help you achieve your goals.
+      These case studies represent just a sample of our collaborative approach to food system transformation. Let's discuss how we can help you achieve similar results.
     </p>
     
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
       <a href="/contact" class="btn-primary text-lg px-8 py-4 bg-white text-forest-green hover:bg-gray-100">
-        Schedule a Discovery Call
+        Start Your Project
       </a>
-      <a href="/services" class="btn-secondary text-lg px-8 py-4 text-white border-white hover:bg-white hover:text-forest-green">
-        Explore Our Services
+      <a href="/partners" class="btn-secondary text-lg px-8 py-4 text-white border-white hover:bg-white hover:text-forest-green">
+        Meet Our Partners
       </a>
     </div>
   </div>
-</section>
+</section> -->
