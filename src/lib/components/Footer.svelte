@@ -19,7 +19,7 @@
           <li><a href="/about" class="text-gray-300 hover:text-lime-green transition-colors duration-200">About Us</a></li>
           <li><a href="/services" class="text-gray-300 hover:text-lime-green transition-colors duration-200">Services</a></li>
           <li><a href="/team" class="text-gray-300 hover:text-lime-green transition-colors duration-200">Our Team</a></li>
-          <li><a href="/case-studies" class="text-gray-300 hover:text-lime-green transition-colors duration-200">Case Studies</a></li>
+          <li><a href="/partners" class="text-gray-300 hover:text-lime-green transition-colors duration-200">Partners</a></li>
           <li><a href="/institutional-food" class="text-gray-300 hover:text-lime-green transition-colors duration-200">Institutional Food</a></li>
         </ul>
       </div>

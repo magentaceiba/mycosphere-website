@@ -27,7 +27,7 @@
         <a href="/services" class="text-forest-green hover:text-lime-green transition-colors duration-200">Services</a>
         <a href="/team" class="text-forest-green hover:text-lime-green transition-colors duration-200">Team</a>
         <a href="/partners" class="text-forest-green hover:text-lime-green transition-colors duration-200">Partners</a>
-        <a href="/case-studies" class="text-forest-green hover:text-lime-green transition-colors duration-200">Case Studies</a>
+        <!-- <a href="/case-studies" class="text-forest-green hover:text-lime-green transition-colors duration-200">Case Studies</a> -->
         <a href="/institutional-food" class="text-forest-green hover:text-lime-green transition-colors duration-200">Institutional Food</a>
         <a href="/contact" class="btn-primary">Contact Us</a>
       </div>
@@ -57,7 +57,7 @@
           <a href="/services" class="text-forest-green hover:text-lime-green transition-colors duration-200">Services</a>
           <a href="/team" class="text-forest-green hover:text-lime-green transition-colors duration-200">Team</a>
           <a href="/partners" class="text-forest-green hover:text-lime-green transition-colors duration-200">Partners</a>
-          <a href="/case-studies" class="text-forest-green hover:text-lime-green transition-colors duration-200">Case Studies</a>
+          <!-- <a href="/case-studies" class="text-forest-green hover:text-lime-green transition-colors duration-200">Case Studies</a> -->
           <a href="/institutional-food" class="text-forest-green hover:text-lime-green transition-colors duration-200">Institutional Food</a>
           <a href="/contact" class="btn-primary inline-block text-center">Contact Us</a>
         </div>

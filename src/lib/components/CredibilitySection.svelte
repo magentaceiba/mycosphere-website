@@ -116,7 +116,7 @@
           <a href="/contact" class="btn-primary">
             Start a Conversation
           </a>
-          <a href="/case-studies" class="btn-secondary">
+          <a href="/partners" class="btn-secondary">
             View Our Work
           </a>
         </div>

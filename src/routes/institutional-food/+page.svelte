@@ -268,8 +268,8 @@
       <a href="/contact" class="btn-primary text-lg px-8 py-4 bg-white text-forest-green hover:bg-gray-100">
         Schedule a Discovery Call
       </a>
-      <a href="/case-studies" class="btn-secondary text-lg px-8 py-4 text-white border-white hover:bg-white hover:text-forest-green">
-        View More Case Studies
+      <a href="/partners" class="btn-secondary text-lg px-8 py-4 text-white border-white hover:bg-white hover:text-forest-green">
+        View Our Partners
       </a>
     </div>
     
