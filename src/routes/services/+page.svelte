@@ -17,6 +17,80 @@
   </div>
 </section>
 
+<!-- Food System Infrastructure -->
+<section class="section-padding bg-white">
+  <div class="container-custom">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl font-bold text-forest-green mb-6">Food System Infrastructure</h2>
+      <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+        Building the physical, legal, and governance infrastructure needed for resilient local food systems.
+      </p>
+    </div>
+    
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
+        <h3 class="text-xl font-semibold text-forest-green mb-4">Food Hub Networks</h3>
+        <p class="text-gray-700 mb-4">
+          We design and develop food hub networks that connect farmers to institutional buyers and create efficient distribution systems.
+        </p>
+        <a href="/institutional-food" class="text-forest-green hover:text-lime-green font-semibold transition-colors duration-300">Learn More →</a>
+      </div>
+      
+      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
+        <h3 class="text-xl font-semibold text-forest-green mb-4">Cooperative Ownership</h3>
+        <p class="text-gray-700 mb-4">
+          We help design cooperative structures for land, data, and infrastructure that distribute ownership and decision-making power.
+        </p>
+      </div>
+      
+      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
+        <h3 class="text-xl font-semibold text-forest-green mb-4">Farmland Trust Commons</h3>
+        <p class="text-gray-700 mb-4">
+          We create innovative legal structures for community ownership of farmland that prioritize stewardship over speculation.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Network & Communication Services -->
+<section class="section-padding bg-soft-cream">
+  <div class="container-custom">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl font-bold text-forest-green mb-6">Network & Communication Services</h2>
+      <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+        Building the connective tissue between diverse stakeholders and making networks visible to themselves.
+      </p>
+    </div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div class="bg-white p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
+        <h3 class="text-2xl font-semibold text-forest-green mb-4">Network Weaving</h3>
+        <p class="text-gray-700 mb-4">
+          We excel at building coalitions, facilitating cross-sector collaboration, and creating the connective tissue between diverse stakeholders.
+        </p>
+        <ul class="space-y-2 text-gray-700">
+          <li>• Coalition building and facilitation</li>
+          <li>• Cross-sector collaboration design</li>
+          <li>• Stakeholder mapping and analysis</li>
+        </ul>
+      </div>
+      
+      <div class="bg-white p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
+        <h3 class="text-2xl font-semibold text-forest-green mb-4">Communication & Storytelling</h3>
+        <p class="text-gray-700 mb-4">
+          We help farm stakeholder networks become visible to one another and tell their stories effectively.
+        </p>
+        <ul class="space-y-2 text-gray-700">
+          <li>• Network visibility and communication</li>
+          <li>• Impact storytelling and documentation</li>
+          <li>• Cultural mapping and narrative design</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- Strategic Planning & Consulting -->
 <section class="section-padding bg-white">
   <div class="container-custom">
@@ -53,7 +127,7 @@
         </ul>
       </div>
       
-      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-1 service-card">
+      <!-- <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-1 service-card">
         <h4 class="text-xl font-semibold text-forest-green mb-4">Example: FORA Strategic Planning</h4>
         <p class="text-gray-700 mb-4">
           We recently completed a comprehensive strategic planning process for Funders for Regenerative Agriculture (FORA), including:
@@ -64,7 +138,7 @@
           <li>• Strategic design sprints using sociocracy principles</li>
           <li>• Equity integration throughout the process</li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
@@ -109,41 +183,6 @@
   </div>
 </section>
 
-<!-- Food System Infrastructure -->
-<section class="section-padding bg-white">
-  <div class="container-custom">
-    <div class="text-center mb-16">
-      <h2 class="text-4xl font-bold text-forest-green mb-6">Food System Infrastructure</h2>
-      <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-        Building the physical, legal, and governance infrastructure needed for resilient local food systems.
-      </p>
-    </div>
-    
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
-        <h3 class="text-xl font-semibold text-forest-green mb-4">Food Hub Networks</h3>
-        <p class="text-gray-700 mb-4">
-          We design and develop food hub networks that connect farmers to institutional buyers and create efficient distribution systems.
-        </p>
-        <a href="/institutional-food" class="text-forest-green hover:text-lime-green font-semibold transition-colors duration-300">Learn More →</a>
-      </div>
-      
-      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
-        <h3 class="text-xl font-semibold text-forest-green mb-4">Cooperative Ownership</h3>
-        <p class="text-gray-700 mb-4">
-          We help design cooperative structures for land, data, and infrastructure that distribute ownership and decision-making power.
-        </p>
-      </div>
-      
-      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
-        <h3 class="text-xl font-semibold text-forest-green mb-4">Farmland Trust Commons</h3>
-        <p class="text-gray-700 mb-4">
-          We create innovative legal structures for community ownership of farmland that prioritize stewardship over speculation.
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
 
 <!-- Technology & Digital Infrastructure -->
 <section class="section-padding bg-soft-cream">
@@ -258,43 +297,6 @@
   </div>
 </section>
 
-<!-- Network & Communication Services -->
-<section class="section-padding bg-soft-cream">
-  <div class="container-custom">
-    <div class="text-center mb-16">
-      <h2 class="text-4xl font-bold text-forest-green mb-6">Network & Communication Services</h2>
-      <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-        Building the connective tissue between diverse stakeholders and making networks visible to themselves.
-      </p>
-    </div>
-    
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
-        <h3 class="text-2xl font-semibold text-forest-green mb-4">Network Weaving</h3>
-        <p class="text-gray-700 mb-4">
-          We excel at building coalitions, facilitating cross-sector collaboration, and creating the connective tissue between diverse stakeholders.
-        </p>
-        <ul class="space-y-2 text-gray-700">
-          <li>• Coalition building and facilitation</li>
-          <li>• Cross-sector collaboration design</li>
-          <li>• Stakeholder mapping and analysis</li>
-        </ul>
-      </div>
-      
-      <div class="bg-soft-cream p-8 rounded-2xl shadow-soft hover:shadow-medium transition-all duration-300 transform hover:-translate-y-2 service-card">
-        <h3 class="text-2xl font-semibold text-forest-green mb-4">Communication & Storytelling</h3>
-        <p class="text-gray-700 mb-4">
-          We help farm stakeholder networks become visible to one another and tell their stories effectively.
-        </p>
-        <ul class="space-y-2 text-gray-700">
-          <li>• Network visibility and communication</li>
-          <li>• Impact storytelling and documentation</li>
-          <li>• Cultural mapping and narrative design</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
 
 <!-- CTA Section -->
 <section class="section-padding bg-forest-green text-white">
